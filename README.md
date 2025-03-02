@@ -36,7 +36,7 @@
 <a name="thanhvien"></a>
 | STT  | MSSV       | Họ và Tên              | Khoa quản lý                           | Email                      | Vai trò                            |
 |------|-----------|----------------------|---------------------------------|----------------------------|------------------------------|
-| 1    | 23520356  | Thái Bình Dương      | Khoa Hệ thống thông tin         | 23520356@gm.uit.edu.vn    | Chủ nhiệm đề tài, tác giả chính       |
+| 1    | 23520356  | Thái Bình Dương      | Khoa Hệ thống thông tin         | 23520356@gm.uit.edu.vn    | Tác giả chính       |
 | 2    | 22521683  | Trương Tất Quang Vinh | Khoa Khoa học và Kỹ thuật thông tin | 22521683@gm.uit.edu.vn    | Đồng tác giả                       |
 | 3    | 22521447  | Phạm Bá Thuận        | Khoa Khoa học và Kỹ thuật thông tin | 22521447@gm.uit.edu.vn    | Đồng tác giả                       |
 
