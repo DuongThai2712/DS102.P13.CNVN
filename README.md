@@ -6,7 +6,7 @@
 
 <!-- Title -->
 <h1 align="center"><b>ĐỒ ÁN CUỐI KÌ</b></h1>
-<h2><b>Đề tàiL</b></h2>
+<h2><b>Đề tài:</b></h2>
 <h2><b>NHẬN DIỆN VÀ PHÂN LOẠI GIẬT GÂN TRÊN TIÊU ĐỀ CỦA BÀI BÁO ĐIỆN TỬ DỰA TRÊN CÁC ĐẶC TRƯNG VỀ NGỮ NGHĨA</b></h2>
 
 
