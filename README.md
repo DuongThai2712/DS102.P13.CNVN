@@ -42,7 +42,7 @@
 
 ## CÁC PHƯƠNG PHÁP ĐƯỢC SỬ DỤNG
 <a name="method"></a>
-### Xử lý văn bản (tiêu đề, nội dung)
+### Xử lý văn bản (Text Preprocessing)
 * TF-IDF
 * LIX & RIX
 * BERT Tokenizer
