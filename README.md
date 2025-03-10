@@ -18,7 +18,7 @@
 * [ Các phương pháp được sử dụng](#method)
 
 
-## GIỚI THIỆU MÔN HỌC
+## GIỚI THIỆU MÔN HỌC (INTRODUCTION)
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Học máy thống kê - Statistics Machine Learning
 * **Mã môn học**: DS102
@@ -26,19 +26,19 @@
 * **Năm học**: 2024-2025
 
 
-## GIẢNG VIÊN HƯỚNG DẪN
+## GIẢNG VIÊN HƯỚNG DẪN (TUTORS)
 <a name="giangvien"></a>
 * TS. **Dương Ngọc Hảo** - *haodn@uit.edu.vn*
 * PGS.TS. **Nguyễn Lưu Thùy Ngân** - *ngannlt@uit.edu.vn*
 
 
-## THÀNH VIÊN NHÓM
+## THÀNH VIÊN NHÓM (MEMBERS)
 <a name="thanhvien"></a>
 | STT  | MSSV       | Họ và Tên              | Khoa quản lý                           | Email                      | Vai trò                            |
 |------|-----------|----------------------|---------------------------------|----------------------------|------------------------------|
-| 1    | 23520356  | Thái Bình Dương      | Khoa Hệ thống thông tin         | 23520356@gm.uit.edu.vn    | Tác giả chính       |
-| 2    | 22521683  | Trương Tất Quang Vinh | Khoa Khoa học và Kỹ thuật thông tin | 22521683@gm.uit.edu.vn    | Đồng tác giả                       |
-| 3    | 22521447  | Phạm Bá Thuận        | Khoa Khoa học và Kỹ thuật thông tin | 22521447@gm.uit.edu.vn    | Đồng tác giả                       |
+| 1    | 23520356  | Thái Bình Dương      | Khoa Hệ thống thông tin         | 23520356@gm.uit.edu.vn    | Main Author       |
+| 2    | 22521683  | Trương Tất Quang Vinh | Khoa Khoa học và Kỹ thuật thông tin | 22521683@gm.uit.edu.vn    | Co-Author                       |
+| 3    | 22521447  | Phạm Bá Thuận        | Khoa Khoa học và Kỹ thuật thông tin | 22521447@gm.uit.edu.vn    | Co-Author                       |
 
 ## CÁC PHƯƠNG PHÁP ĐƯỢC SỬ DỤNG
 <a name="method"></a>
